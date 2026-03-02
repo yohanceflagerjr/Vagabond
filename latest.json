@@ -4,19 +4,19 @@
   "pub_date": "2026-02-24T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "SIGNATURE_FROM_BUILD_OUTPUT",
+      "signature": "",
       "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     },
     "linux-x86_64": {
-      "signature": "SIGNATURE_FROM_BUILD_OUTPUT",
+      "signature": "",
       "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     },
     "darwin-x86_64": {
-      "signature": "SIGNATURE_FROM_BUILD_OUTPUT",
+      "signature": "",
       "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     },
     "darwin-aarch64": {
-      "signature": "SIGNATURE_FROM_BUILD_OUTPUT",
+      "signature": "",
       "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     }
   }
