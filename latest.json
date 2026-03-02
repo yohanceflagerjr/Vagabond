@@ -1,23 +1,23 @@
 {
-  "version": "0.1.0",
-  "notes": "Initial release of Vagabond.",
+  "version": "0.0.0",
+  "notes": "Placeholder no update.",
   "pub_date": "2026-02-24T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "SIGNATURE_FROM_BUILD_OUTPUT",
-      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.0/Vagabond_0.1.0_x64-setup.exe"
+      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     },
     "linux-x86_64": {
       "signature": "SIGNATURE_FROM_BUILD_OUTPUT",
-      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.0/vagabond_0.1.0_amd64.AppImage"
+      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     },
     "darwin-x86_64": {
       "signature": "SIGNATURE_FROM_BUILD_OUTPUT",
-      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.0/Vagabond_0.1.0_x64.dmg"
+      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     },
     "darwin-aarch64": {
       "signature": "SIGNATURE_FROM_BUILD_OUTPUT",
-      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.0/Vagabond_0.1.0_aarch64.dmg"
+      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     }
   }
 }
