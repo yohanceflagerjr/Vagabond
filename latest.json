@@ -4,7 +4,7 @@
   "pub_date": "2026-03-04T00:00:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVRKVlZRb1RuSG8vV09hQStpT0tnV282cFg3TE82OVRpSGczSzhXNkh6UVl0RVpmOFlYYzR0emNjNmUvUys2SXpNSDFCUFYrTnNFWjM4ZUZxK2dNa21BZzUxam44T0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjU3MjE0CWZpbGU6VmFnYWJvbmQuYXBwLnRhci5negpLTzVlNjFtaTI0WXZ4RGg0bk9JcXoydkZKU3Vvd0JSN3JDTFIvZzM2K0Y0bjNwa3QyQm41NzBueHNycHZubWlQTUhKL0h0UWVxQmhrUWZITHk5cU5CZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVRKVlZRb1RuSHVxQzlFRUtvRGViWnRoaWtQVmhGZFVhOThzaDVrcWxYRmlKSEtkT0tnTy9TZFdPNkV2UTVsUDBsR0VTeWJ2T3BJNVJwRU1WQS9XbldYODh2NmNvRGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjY4ODYxCWZpbGU6VmFnYWJvbmQuYXBwLnRhci5nego1a1JuVE43TDJIQ2FzdDlwZnhkYXVuc0tjQzBRTW8wREgwN1RmL3NORE81RW5tdmxqa1h1aDVjWUM2WWlSajJjTFNxK3MrcGZYNHZ6SFZmK3N5YnRDQT09Cg==",
       "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.0/Vagabond.app.tar.gz"
     },
     "darwin-aarch64": {
@@ -12,8 +12,8 @@
       "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVRKVlZRb1RuSHNkbHBXcVE1TW0ydnA0dlBrSWJRZFZQSWo4eS94WXowSFUzdDQ2bGNZM3NIemorK3lRWUxTbXQ1cmhKOUpWSXllVzlHT1dpS0tQMzh6cy9jM1NxckFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjY5Mzk4CWZpbGU6VmFnYWJvbmRfMC4xLjBfeDY0LXNldHVwLmV4ZQpGYmFMRmplM2RFOTB1VGlrWUJWR0ZSM3NBOXFFOWVuZFdqVlp6a2hlbERUL3JhN1pSSkFDcDhRMHlzZGY3cWZCcWxkM3RQQzk3YTlTb0dMdEhCby9DZz09Cg==",
+      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.0/Vagabond_0.1.0_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
