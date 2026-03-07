@@ -8,7 +8,7 @@ Vagabond is a private, offline-first productivity app for people who want to sta
 
 ## What's Inside
 
-**🗓 Calendar & Tasks**
+**☑ Calendar & Tasks**
 Plan your days with a visual calendar and a simple task list. Add tasks to specific dates, set priorities, attach locations and URLs, and check things off as you go. Everything is right where you left it.
 
 **⟳ Routine Tasks**
@@ -17,7 +17,7 @@ Set up daily, weekly, or monthly routines and Vagabond will automatically reset 
 **🕮 Journal**
 Write daily entries, rate your mood and energy, and look back on your week or month with the wrapped view. Your journal is yours — private, local, and always available offline.
 
-**✎ Appearance Customization**
+**🖌 Appearance Customization**
 Make Vagabond feel like home. Choose your background, customize panel and card colors, switch between light and dark mode, and pick a font that feels right.
 
 **🗘 Auto-Updates**
