@@ -1,4 +1,4 @@
-# Vagabond ♟
+# Vagabond ♙
 
 > *A personal productivity app built around your life — not the other way around.*
 
