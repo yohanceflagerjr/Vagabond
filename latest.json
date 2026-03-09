@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
-  "notes": "Initial release of Vagabond.",
-  "pub_date": "2026-03-04T00:00:00Z",
+  "version": "0.1.1",
+  "notes": "Bug fixes and improvements.",
+  "pub_date": "2026-03-08T00:00:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVRKVlZRb1RuSHZxSFByV1Z3azFiRHYwSUg4eXM5cEx1YVRXemQ1aFg4UjJoV1B4UFRBQVR3KzduQnkyYzhqT1BIeGFNT2tsMkRLRVJZdDNzL0hMaDlJbXUwSTdZVWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjczMjg5CWZpbGU6VmFnYWJvbmQuYXBwLnRhci5negovM0pEREkvMkY4eXlPc01JTisxSmpSY0tXZW1kdmpLNFhKUDI2MmNYOTAxYWZSd0lXWEZqZnBZQUtrSk1HUVF1ZlVWaDgxanZWbGpCbDE1UHpicWRCQT09Cg==",
-      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.0/Vagabond.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVRKVlZRb1RuSG5pSnJrNTA2UlRlUmM4NG4vTEpCYXhSL1VKdVk4QTFvSTd3N2pTbVJ3Y0lUbVVlcTYzWVVnTnI2Tlg1MDBGY0tTcDhqc0hHYkN1MGNKK1BnbjhRK3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDA5NTM5CWZpbGU6VmFnYWJvbmQuYXBwLnRhci5negpTVmVUTW1valpQSkRMcHFLY25HWHkzNkdkdmdsSU04cHR0RDlVSjh2REdiL3RPbFBzeFo5aGF5UzZ1aHM3d09jUStEdlAyZk5aNU5SRHRNdTB0SndDZz09Cg==",
+      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.1/Vagabond.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "",
       "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.0.0/placeholder"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVRKVlZRb1RuSG4yYmlBR2Fxa0NXS3JpbHhGcDYyRmRTeWdBbWxYYTg1d1NLOWlQNGdlTU90azhmdkpaNGROUmVKS0IwNllGbzExRHpwQ1FteXVKL0JkejVHbW1ITVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjczNjA4CWZpbGU6VmFnYWJvbmRfMC4xLjBfeDY0LXNldHVwLmV4ZQowbi9TYTY3a1d5Z3RuRFQ5bit3RVpULy9VZ2NXeVdaZUNKeE53ZjlJSmUxZlk1RUkreGFKLy9yZkJET216eUhDc3dyRVpvNFVDOFZXWi9DVE9WMFVBQT09Cg==",
-      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.0/Vagabond_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVRKVlZRb1RuSHRqUzE1K1JxcFNxK01RWVlZQWlWVDJWOVFmRXBmNmIrbVM3ajRHUU42SjJ2RDVIc0VsNXZUWkdKTXBIMDcwSDVYYWhKNWpZQ05Ndncyb2FEWm04WUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDE3ODc1CWZpbGU6VmFnYWJvbmRfMC4xLjFfeDY0LXNldHVwLmV4ZQpBR0wvQThDcmhqcEx2U1piUFVIN2NmZmYrUm9zeWphb3lZYTFHSzlYcVNGL3paNUlvUTNnSXY3cDFuMEVGUnppdCtsR0ZyZ0x6Vk1Qc3c3eWJUZVJEQT09Cg==",
+      "url": "https://github.com/yohanceflagerjr/Vagabond/releases/download/v0.1.1/Vagabond_0.1.1_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
