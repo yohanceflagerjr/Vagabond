@@ -2,7 +2,7 @@
 
 > *A personal productivity app built around your life — not the other way around.*
 
-Vagabond is a private, offline-first productivity app for people who want to stay organized without giving their data to the cloud. Everything lives on your device. No subscriptions, no tracking, no nonsense.
+Vagabond is a private, offline-first productivity app for people who want to stay organized without giving their data to the cloud. Everything lives on your device and is completely free.
 
 ---
 
